@@ -1,0 +1,13 @@
+{
+    "movies":[
+       {
+          "name":"Alien",
+          "year":"1979",
+          "genres":[
+             "Action",
+             "Horror"
+          ],
+          "country":"USA"
+       }
+    ]
+ }
